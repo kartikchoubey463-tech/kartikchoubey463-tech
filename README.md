@@ -25,4 +25,5 @@
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/kartik-choubey-cse14)  
+- [LinkedIn](https://www.linkedin.com/in/kartik-choubey-cse14)
+ 
