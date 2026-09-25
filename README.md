@@ -25,4 +25,4 @@
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com) *(Add your link here)*
+- [LinkedIn](www.linkedin.com/in/kartik-choubey-cse14)  
